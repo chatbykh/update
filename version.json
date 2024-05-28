@@ -1,0 +1,9 @@
+{
+    "latest_version": "1.1.0",
+    "update_details": [
+        "Improved download speed",
+        "Fixed bug in dark mode toggle",
+        "Added new format options"
+    ],
+    "download_url": "https://yourserver.com/path_to_new_version.exe"
+}
